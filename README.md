@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Musaab Alrabie
 🚀 Building fast Flutter apps and clean, responsive React.js interfaces.<br>
 📚 Learning advanced animations, state management, and Supabase/Firebase.<br>
@@ -40,5 +38,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Musaab-Alrabie&icon=6&color=0)](https://visitcount.itsvg.in)
-
-</div>
